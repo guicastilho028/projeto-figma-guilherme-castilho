@@ -1,0 +1,32 @@
+header {
+    background-color:white;
+    position: absolute;
+width: 697px;
+height: 88px;
+left: 973px;
+top: 32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+}
+body ,{
+    background-color: 390979;
+    position: absolute;
+width: 1440px;
+height: 885px;
+left: 0px;
+top: 95px;
+}
+<title>Document</title>
+position: absolute;
+width: 1440px;
+height: 885px;
+left: 0px;
+top: 95px;
+
+<link rel="stylesheet" href=style.css>
